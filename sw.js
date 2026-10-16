@@ -1,6 +1,6 @@
 /* عامل الخدمة: يجعل التطبيق يعمل بدون إنترنت.
    عند نشر نسخة جديدة غيّر رقم VERSION ليتحدّث التطبيق عند المستخدمين. */
-const VERSION = "taghthia-v3";
+const VERSION = "taghthia-v4";
 const ASSETS = [
   "./",
   "./index.html",
